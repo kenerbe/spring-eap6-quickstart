@@ -15,10 +15,10 @@
 				<img src="<c:url value="/static/resources/gfx/dualbrand_logo.png"/>"/>
 			</div>
 			<div id="content">
-				<h1>Welcome to JBoss!</h1>
+				<h1>Welcome to Ken's JBoss test project!</h1>
 
 				<div>
-					<p>You have successfully deployed a Spring MVC web application.</p>
+					<p>You have successfully deployed an OpenShift Spring MVC web application.</p>
 					<h3>Your application can run on:</h3>
 					<img src="<c:url value="/static/resources/gfx/dualbrand_as7eap.png"/>"/>
 				</div>
